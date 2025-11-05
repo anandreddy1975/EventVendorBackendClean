@@ -4,4 +4,6 @@ oauth2client
 python-dotenv
 google-generativeai
 gunicorn
+flask-cors
+
 
