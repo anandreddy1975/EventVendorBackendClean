@@ -1,0 +1,5 @@
+# Ignore environment and credentials files
+.env
+credentials.json
+venv/
+__pycache__/
